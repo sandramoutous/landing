@@ -1,0 +1,26 @@
+.footer{
+background-color: #2C2B2B;
+text-align: center;
+height: 250px;
+}
+.list-inline{
+  width: 300px;
+  display: flex;
+  justify-content: center;
+  margin: 40px auto;
+  padding-top: 56px;
+}
+.list-inline li{
+  list-style: none;
+  padding: 8px;
+}
+
+
+.fab{
+  font-size:30px;
+  color: #1EDD88;
+}
+
+.fas {
+  color: red;
+}

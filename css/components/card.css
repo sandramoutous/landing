@@ -1,0 +1,19 @@
+.container-card{
+  text-align: center;
+}
+.cards{
+  display: flex;
+  justify-content: space-around;
+  width: 900px;
+  margin: 0 auto;
+}
+
+/*CARD IMG*/
+.card-img{
+  width: 250px;
+  box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+}
+.card-img img{
+  height: 100px;
+  margin-top: 20px;
+}
